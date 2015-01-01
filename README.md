@@ -25,6 +25,8 @@ rely on those interfaces). It includes:
 
 * A shim for the Element prototype's addEventListener() and
   removeEventListener() methods, per the [DOM2 EventTarget](http://www.w3.org/TR/DOM-Level-2-Events/events.html#Events-EventTarget).
+  
+* [Respond.js](https://github.com/scottjehl/Respond), which is a fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more), which is required by [Twitter Bootstrap](http://getbootstrap.com/) to [support](http://getbootstrap.com/getting-started/#support) IE8
 
 ## Usage
 Using aight is simple. First off, be sure that you're using the right `DOCTYPE`

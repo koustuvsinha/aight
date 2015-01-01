@@ -4,6 +4,7 @@ JS_FILES = \
 	lib/ie8/src/ie8.js \
 	lib/dom4/src/dom4.js \
 	lib/es5-shim/es5-shim.js \
+    lib/respond.js/src/respond.js \
 	src/createElementNS.js \
 	src/css-om.js \
 	src/end.js

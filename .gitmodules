@@ -3,10 +3,13 @@
 	url = https://github.com/lojjic/PIE.git
 [submodule "lib/ie8"]
 	path = lib/ie8
-	url = git@github.com:WebReflection/ie8.git
+	url = https://github.com/WebReflection/ie8.git
 [submodule "lib/dom4"]
 	path = lib/dom4
-	url = git@github.com:WebReflection/dom4.git
+	url = https://@github.com/WebReflection/dom4.git
 [submodule "lib/es5-shim"]
 	path = lib/es5-shim
-	url = git@github.com:es-shims/es5-shim.git
+	url = https://github.com/es-shims/es5-shim.git
+[submodule "lib/respond.js"]
+	path = lib/respond.js
+	url = https://github.com/scottjehl/Respond.git
